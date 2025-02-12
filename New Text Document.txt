@@ -1,0 +1,34 @@
+img1.png:
+
+"Design a vintage-inspired Kundan necklace with multiple layers of beads in a multi-strand style."
+
+img2.png:
+
+"Design a heavy, elegant Kundan choker necklace with intricate leaf motifs and gold accents."
+"Create a luxurious Kundan choker with gold accents and detailed leaf motifs."
+
+img3.png:
+
+"Design a traditional, religious temple jewelry piece with antique gold and intricate detailing."
+
+img4.png:
+
+generate a temple jewellery with deity pendant floral & foliage motifs in gold metal
+
+img5.png:
+
+"Design a Rajasthani-inspired Kundan choker necklace with red and green accents, Meenakari work, and gold beads."
+"Create a luxurious Kundan choker with intricate filigree work, inspired by Rajasthani jewellery traditions."
+
+img6.png:
+
+generate a thewa jewellery with white beads radha krishna in the middle and maintain the whole theme as green and golden. 
+
+img7.png:
+
+"Design a Kundan necklace with Polki diamonds, Jadau work, and Emerald accents, with pearl detailing and Jhumka-style earrings."
+"Create a luxurious Kundan necklace featuring Emerald gemstones, Polki diamonds, and Jadau work, with pearl accents and Jhumka-style earrings."
+
+img8.png:
+
+Generate a Assamese jewellery with a crescent moon pendant and work of red and black beads in the neckline keep it simple and light.  

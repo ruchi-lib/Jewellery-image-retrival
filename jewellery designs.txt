@@ -1,0 +1,7 @@
+{
+  "img1.png": ["kundan jewellery", "necklace", "gold", "red", "green", "Jhumka", "75cm", "many layers of beads"],
+  "img2.png": ["gold", "necklace", "traditional", "50cm", "diamond work in neckline", "red stone in the middle", "white stone", "leaf work in the centre", "Heavy work", "kundan jewellery"],
+  "img3.png": ["Temple jewellery", "God in the middle", "traditional", "peacock", "heavy", "57cm"],
+  "image4.jpg": ["bracelet", "silver", "simple"]
+}
+ 
